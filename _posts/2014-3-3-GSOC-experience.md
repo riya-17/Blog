@@ -3,9 +3,11 @@ layout: post
 title: My GSOC Experience!
 ---
 
-Hey Guys,
+Hello people,
 
-I am not a GSOC person but I will surely like to share my experience with you.
+This blog is about sharing my GSoC experience with you.
+
+This might be boring but you really would not need to read the whole blog if you read just one para here.
 
 I tried in GSOC for two consecutive years. The experience that we gain from GSOC is really priceless. If we keep on being pessimist like it won't happen, I should not do this, blah! blah! blah! all these are myths believe me trying a little thing with a lot of hard work and keeping in mind that I will get to learn something new is the thing that is priceless. That little smile after accomplishing the task that you thought is impossible is what brings happiness and confidence to face those challenges more and more.
 
