@@ -3,6 +3,8 @@ layout: post
 title: My Open Source Experience!
 ---
 
+![_config.yml]({{ site.baseurl }}/images/open_source.jpg)
+
 Hello world,
 
 This is my first Blog and I wanted to share my experience as an Open Source Contibutor.
