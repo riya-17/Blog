@@ -3,7 +3,7 @@ layout: post
 title: My Open Source Experience!
 ---
 
-![Open Source Image](/images/open_source.jpg "Open Source Image")
+![Open Source Image](/images/open_source.jpg)
 
 Hello world,
 
