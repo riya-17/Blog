@@ -3,7 +3,7 @@ layout: post
 title: My Open Source Experience!
 ---
 
-![_config.yml]({{ site.baseurl }}/images/open_source.jpg)
+![Open Source Image](/images/open_source.jpg "Open Source Image")
 
 Hello world,
 
