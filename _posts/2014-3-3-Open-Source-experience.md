@@ -4,6 +4,7 @@ title: My Open Source Experience!
 ---
 
 ![Open Source Image](/images/open-source.png)
+![_config.yml]({{ site.baseurl }}/images/open-source.png)
 
 Hello world,
 
