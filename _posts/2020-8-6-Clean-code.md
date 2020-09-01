@@ -55,7 +55,9 @@ def copy_source_to_destination(source, destination):
   Think Small! One thing that a function should be, is that, it should be as small as it could. How short it should be? I read a story in this book which I would certainly love to share. 
   
   <br>
-  *In the eighties we used to say that a function should be no bigger than a screen-full. Of course we said that at a time when VT100 screens were 24 lines by 80 columns, and our editors used 4 lines for administrative purposes. Nowadays with a cranked-down font and a nice big monitor, you can fit 150 characters on a line and a 100 lines or more on a screen. Lines should not be 150 characters long. Functions should not be 100 lines long. Functions should hardly ever be 20 lines long.
+  
+  *In the eighties we used to say that a function should be no bigger than a screen-full. Of course we said that at a time when VT100 screens were 24 lines by 80 columns, and our editors used 4 lines for administrative purposes. Nowadays with a cranked-down font and a nice big monitor, you can fit 150 characters on a line and a 100 lines or more on a screen. Lines should not be 150 characters long. Functions should not be 100 lines long. Functions should hardly ever be 20 lines long.*
+  
   <br>
   
    When we write a functions we want it to handle all our problems. Most of the time we try to complete our task in a single function.It might complete the work but doesn't ease it for the future roles.So, in order to handle this problem we should try to design it in a way that it is easy to reuse, change or add more elements. The solution to problem is divide your problem as much as you could. If a function is performing addition as well as substraction than split it. If a function is checking as well as iterating break it.Basically, try to segment it.
@@ -90,7 +92,9 @@ Let's get this more clear with an example:
 <br>
 Here in the above example 2.1 and 2.2 we can see how breaking the copy_source_data into another function made this whole code a lot easier to understand and read. Each function is doing just one thing and working what they are assigned for. 
 <br>
+
 *Functions should do one thing and that one thing well*
+
 <br>            
 <h3>3. Comments</h3>
   
