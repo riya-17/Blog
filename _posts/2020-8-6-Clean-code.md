@@ -182,4 +182,4 @@ Example - 5.1
   return result
  ```
   
-  
+Writing a clean program is not an easy task it needs consistency and efforts. Earlier it might slow down your pace but it is best for the long run. The more you do the more you learn. Keep Learning!
