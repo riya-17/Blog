@@ -56,7 +56,7 @@ def copy_source_to_destination(source, destination):
   
   <br>
   
-  *In the eighties we used to say that a function should be no bigger than a screen-full. Of course we said that at a time when VT100 screens were 24 lines by 80 columns, and our editors used 4 lines for administrative purposes. Nowadays with a cranked-down font and a nice big monitor, you can fit 150 characters on a line and a 100 lines or more on a screen. Lines should not be 150 characters long. Functions should not be 100 lines long. Functions should hardly ever be 20 lines long.*
+  ***In the eighties we used to say that a function should be no bigger than a screen-full. Of course we said that at a time when VT100 screens were 24 lines by 80 columns, and our editors used 4 lines for administrative purposes. Nowadays with a cranked-down font and a nice big monitor, you can fit 150 characters on a line and a 100 lines or more on a screen. Lines should not be 150 characters long. Functions should not be 100 lines long. Functions should hardly ever be 20 lines long.***
   
   <br>
   
@@ -93,7 +93,7 @@ Let's get this more clear with an example:
 Here in the above example 2.1 and 2.2 we can see how breaking the copy_source_data into another function made this whole code a lot easier to understand and read. Each function is doing just one thing and working what they are assigned for. 
 <br>
 
-*Functions should do one thing and that one thing well*
+   ***Functions should do one thing and that one thing well***
 
 <br>            
 <h3>3. Comments</h3>
