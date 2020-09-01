@@ -3,7 +3,7 @@ layout: post
 title: Clean Code by Robert C Martin!
 ---
 
-![_config.yml]({{ site.baseurl }}/images/giphy.gif)
+![_config.yml]({{ site.baseurl }}/images/s2bgjgyu60e1yltnhoa3.webp)
 
 Hello World,
 
