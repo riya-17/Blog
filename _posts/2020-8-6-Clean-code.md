@@ -7,7 +7,7 @@ title: Clean Code by Robert C Martin!
 
 Hello World,
 
-  Recently, I read a book Clean Code by Robert C Martin and I loved it! This book consist of great concepts with a lot of examples which clear your every doubt. We  learn to write good code, build, optimize and what not. In an early stage of career sometimes we miss( Or maybe you don't even know) a lot of important points which are really helpful and imperative. This book opens you to the new level of programming practices that leads you to new doors.
+  Recently, I read a book Clean Code by Robert C Martin and I loved it! This book consist of great concepts with a lot of examples which clear your every doubt. We  learn to write good code, build, optimize and what not. In an early stage of career sometimes we miss (Or maybe you don't even know) a lot of important points which are really helpful and imperative. This book opens you to the new level of programming practices that leads you to new doors.
 
   Being a programmer, I would love to point out some of the best practices that I feel worth sharing:
 
@@ -60,7 +60,7 @@ def copy_source_to_destination(source, destination):
   
   <br>
   
-   When we write a functions we want it to handle all our problems. Most of the time we try to complete our task in a single function.It might complete the work but doesn't ease it for the future roles.So, in order to handle this problem we should try to design it in a way that it is easy to reuse, change or add more elements. The solution to problem is divide your problem as much as you could. If a function is performing addition as well as substraction than split it. If a function is checking as well as iterating break it.Basically, try to segment it.
+   When we write a functions we want it to handle all our problems. Most of the time we try to complete our task in a single function.It might complete the work but doesn't ease it for the future roles.So, in order to handle this problem we should try to design it in a way that it is easy to reuse, change or add more elements. The solution to problem is divide your problem as much as you could. If a function is performing addition as well as substraction then split it. If a function is checking as well as iterating, break it.Basically, try to segment it.
 
 Let's get this more clear with an example:
  
@@ -90,7 +90,7 @@ Let's get this more clear with an example:
       copy_source_data(source2, source1)
  ```
 <br>
-Here in the above example 2.1 and 2.2 we can see how breaking the copy_source_data into another function made this whole code a lot easier to understand and read. Each function is doing just one thing and working what they are assigned for. 
+Here, in the above example 2.1 and 2.2 we can see how breaking the copy_source_data into another function made this whole code a lot easier to understand and read. Each function is doing just one thing and working what they are assigned for. 
 <br>
 
    ***Functions should do one thing and that one thing well***
