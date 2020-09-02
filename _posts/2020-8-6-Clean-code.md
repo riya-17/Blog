@@ -60,7 +60,7 @@ def copy_source_to_destination(source, destination):
   
   <br>
   
-   When we write a functions we want it to handle all our problems. Most of the time we try to complete our task in a single function.It might complete the work but doesn't ease it for the future roles.So, in order to handle this problem we should try to design it in a way that it is easy to reuse, change or add more elements. The solution to problem is divide your problem as much as you could. If a function is performing addition as well as substraction then split it. If a function is checking as well as iterating, break it.Basically, try to segment it.
+   When we write a functions we want it to handle all our problems. Most of the time we try to complete our task in a single function.It might complete the work but doesn't ease it for the future roles.So, in order to handle this problem we should try to design it in a way that it is easy to reuse, change or add more elements. The solution to problem is divide your problem as much as you could. If a function is performing addition as well as substraction then split it. If a function is checking as well as iterating, break it. Basically, try to segment it.
 
 Let's get this more clear with an example:
  
@@ -93,12 +93,12 @@ Let's get this more clear with an example:
 Here, in the above example 2.1 and 2.2 we can see how breaking the copy_source_data into another function made this whole code a lot easier to understand and read. Each function is doing just one thing and working what they are assigned for. 
 <br>
 
-   ***Functions should do one thing and that one thing well***
+   ***"Functions should do one thing and that one thing well"***
 
 <br>            
 <h3>3. Comments</h3>
   
-  As I mentioned the ratio of a code written to the read is 1-to-10. we surely need to write a code which is more readable and understandable to our fellow developers for their ease as well as ours. Therefore, comments plays a vital role in accomplishing this task and will help in decreasing the complexity of the code. If we write meaningful Function name half of our task is resolved as we would not need a comment to explain the use of that function.
+  The ratio of a code written to the read is 1-to-10. we surely need to write a code which is more readable and understandable to our fellow developers for their ease as well as ours. Therefore, comments plays a vital role in accomplishing this task and will help in decreasing the complexity of the code. If we write meaningful Function name half of our task is resolved as we would not need a comment to explain the use of that function.
   See wheather you can understand that in next Example:
 
  Example - 3.1
@@ -116,7 +116,7 @@ Here, in the above example 2.1 and 2.2 we can see how breaking the copy_source_d
       copy_source_data(source2, source1)
  ```
 
-Example 2.2 is quite clear we can see that we are copying data to function name just says copy source data. The comments clear out the little bit of confusion that could have arrived due to source1 and source2 as both are source and the comment clear out the tension.
+Example 2.2 is quite clear as we can see that we are copying data to function name just says copy source data. The comments clear out the little bit of confusion that could have arrived due to source1 and source2 as both are source and the comment clear out the tension.
 
 <br>
 <h3>4. Formatting</h3>
