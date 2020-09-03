@@ -158,7 +158,7 @@ Example - 4.2
       copy_one_source_to_another(source2, source1)
 ```
 
-  I know indentation in Python is an integral part. Whereas there have been libraries that allow us to use curly braces in python. On the other hand, here I would like to bring your attention more towards the indentation. From Example 4.1 and 4.2 you can analyze the importance of horizontal indentation. The code in 4.1 will fail to throw an indentation error. The code in Example 4.2 is much more cleaner and easy to read than in Example 4.1.
+  I know indentation in Python is an important part. Whereas there have been libraries that allow us to use curly braces in python. On the other hand, here I would like to bring your attention more towards the indentation. From Example 4.1 and 4.2 you can analyze the importance of horizontal indentation. The code in 4.1 will fail to throw an indentation error. The code in Example 4.2 is much more cleaner and easy to read than in Example 4.1.
 
 <br>
 <h3>5. Error Handling</h3>
