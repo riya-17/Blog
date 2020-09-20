@@ -13,12 +13,18 @@ What motivates me?
 this is a question that everybody asks oneself or other person. We always look upon other person and think yes he/she can be my motivation. But doesn't the motivation start from ourselves? motivation to keep ourselves motivated. We try to keep ourselves motivated so we can achieve what we aim for and fulfil our dreams.
 
 ### Small Treats
-People like treating themselves. I went trough a talk by Marty Lobdell. He stated that keep treating yourself for small accomplishments which will lead you to greater achievements. Our life revolves around various things Our life revolves around our duties. We need to fulfil our duties towards different roles of life that we play. The role of a daughter, son, parent, employee, colleague. We have various roles to play but to fulfill those roles with enthusiasm and energy we need to keep treating ourselves. Everytime we help anyone, we fulfil our benchmark. this is the secret of deep happiness.
+People like treating themselves. I went trough a talk by Marty Lobdell. He stated that keep treating yourself for small accomplishments which will lead you to greater achievements. Like give yourself a small treat after reading each chapter. Treat yourself a break with a song, chocolate, or anything that you like. This will make things interesting and will push you to work for it. After all it's all about happiness either short or long.
 
 <br>
 
 ### Dreams
-Dreams are what keep us going on when we are awake. They helps us to make choices in our endeavours.We make decisions in our lifee keeping our goals in mind and this where we wanna be. Dreams are what leads us like a shooting star, always there in our concious and continuously working to reach there. Dreams never let us leave what we are pursuinng keeps us believing in what we want and pursue them.
+Always follow your heart that's where all the Dreams lie. We are the best versions of ourselves if we follow what we want. Dreams are what keep us going on when we are awake. They helps us to make choices in our endeavours. We make decisions in our life keeping our goals in mind and this what helps us takes risk. There are many obstable or diversions that may occur but afterall it is said by Rober Frost.  
+
+Two roads diverged in a wood, and I—
+I took the one less traveled by,
+And that has made all the difference.
+
+Dreams are what keeps us alive. Always fetch your chance and work for it. Dreams never let us leave what we are pursuinng, keeps us believing in what we want and pursue them.
 
 <br>
 
