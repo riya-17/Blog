@@ -41,8 +41,6 @@ We all have wishes. There can be any kind of wish like, innocent, weird, sweet, 
 
 <br>
 
-We keep ourselves motivated so that we can achieve dreams on the other hand Dreams are the ones that keeps us motivated.
-
 "*We are such stuff as dreams are made on*" - William Shakespeare
 
 Keep following your dreams and be Happy :)
