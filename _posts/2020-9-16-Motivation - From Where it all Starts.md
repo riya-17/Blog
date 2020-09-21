@@ -30,7 +30,9 @@ Dreams are what keeps us alive. Always fetch your chance and work for it. Dreams
 <br>
 
 ### Plans
-Plans are stepping stones for our dreams. As we have chapters in a book to cover the whole story, we have plans. Accomplishing these small wins is what keeps us going on. These small plans are like small goals that lead us to a bigger goal. It is once said - "*Plans are what leads us to a Journey, After all, it is a journey that is much more beautiful*". Plans make us keep believing in ourselves. Taking small steps towards our Dreams and fulfill them is what encourages us, to plan more plans and work towards them. Traveling to a small place is a step towards a world tour. Reading the first page of a book leads you to go on a new adventure. Adventures are what keeps our lives exciting. We live for these small moments that become part of a lifetime.
+Plans are stepping stones for our dreams. As we have chapters in a book to cover the whole story, we have plans. Accomplishing these small wins is what keeps us going on. These small plans are like small goals that lead us to a bigger goal. It is once said - 
+<br> "*Plans are what leads us to a Journey, After all, it is a journey that is much more beautiful*". 
+<br> Plans make us keep believing in ourselves. Taking small steps towards our Dreams and fulfill them is what encourages us, to plan more plans and work towards them. Traveling to a small place is a step towards a world tour. Reading the first page of a book leads you to go on a new adventure. Adventures are what keeps our lives exciting. We live for these small moments that become part of a lifetime.
 
 <br>
 
