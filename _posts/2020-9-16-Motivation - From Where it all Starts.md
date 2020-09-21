@@ -3,7 +3,7 @@ layout: post
 title: My Open Source Experience!
 ---
 
-![_config.yml]({{ site.baseurl }}/images/open-source.png)
+![_config.yml]({{ site.baseurl }}/images/Dreams.jpg)
 
 Hello, world,
 
