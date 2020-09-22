@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pbench - One Ring to Rule them all!
+title: Pbench - one ring to rule them all
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/giphy.gif)
