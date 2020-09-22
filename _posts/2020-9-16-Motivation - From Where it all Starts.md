@@ -6,7 +6,7 @@ title: Motivation - From Where it all Starts!
 ![_config.yml]({{ site.baseurl }}/images/Dreams.jpg)
 (Image credit: Media Molecule))
 
-Hello, world,
+Hello! world,
 
 We have many things to motivate us but from where does motivation starts?
 What motivates us? This is a question that everybody asks oneself or another person. We always look at another person and think yes he/she can be my motivation or a video or anything else. Isn't the motivation to start from ourselves? Motivation to keep ourselves motivated.
