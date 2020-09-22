@@ -11,6 +11,7 @@ We have many things to motivate us but from where does motivation starts?
 What motivates us? This is a question that everybody asks oneself or another person. We always look at another person and think yes he/she can be my motivation or a video or anything else. Isn't the motivation to start from ourselves? Motivation to keep ourselves motivated.
 
 The willingness to do something starts from our end first then it reaches the other.
+<br><br>
 
 ### Desires
 We all have wishes. There can be any kind of wish like, innocent, weird, sweet, truthful, and a lot more. There are countless desires that a person would love to fulfill. Like, to help others, to make your expenses, or not to depend on anyone else. Each person has a desire or something that they are not able to do at present but would love to fulfill one day. After all, we are all searching for meanings in our lives and these desires give us meaning. The things we love, things we want, things we want to spend our time on, people we love, making others happy it can be anything.
@@ -35,7 +36,7 @@ and I— I took the one less traveled by, <br>
 And that has made all the difference.* <br>
 
 Dreams are what keeps us alive. Always fetch your chance and work for it. Dreams never let us leave what we are pursuing, keeps us believing in what we want, and pursue them.
-<br>
+<br><br>
 
 "*We are such stuff as dreams are made on*" - William Shakespeare
 
