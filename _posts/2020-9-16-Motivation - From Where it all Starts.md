@@ -31,10 +31,10 @@ I went through a talk by Marty Lobdell. He said, "*Treating oneself for small ac
 ### Dreams
 Always follow your heart that's where all the Dreams lie. We are the best versions of ourselves if we follow what we want. Dreams are what keep us going on when we are awake. They help us to make choices in our endeavors. We make decisions in our life keeping our goals in mind and this is what helps us take a risk. Many obstacles or diversions may occur but after all, it is once said-
 
-                                 Two roads diverged in a wood,
-                                 and I— I took the one less traveled by,
-                                 And that has made all the difference.
-                                                    - The Road Not Taken by Robert Frost
+   *Two roads diverged in a wood, <br>
+    and I— I took the one less traveled by, <br>
+    And that has made all the difference.* <br>
+       - The Road Not Taken by Robert Frost
             
 Dreams are what keeps us alive. Always fetch your chance and work for it. Dreams never let us leave what we are pursuing, keeps us believing in what we want, and pursue them.
 <br><br>
