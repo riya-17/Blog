@@ -4,7 +4,9 @@ title: Motivation - From Where it all Starts!
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/Dreams.jpg)
-(Image credit: Media Molecule))
+<br>
+
+(Image credit: Media Molecule)
 
 Hello! world,
 
