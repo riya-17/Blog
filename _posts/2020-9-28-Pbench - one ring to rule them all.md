@@ -13,9 +13,9 @@ The framework in short strives to make the life of performance engineer more eff
 
 <h5>The Framework allows user to:</h5>
 
-- Collect data from one or more than one systems </br>
-- Indexes and verifies it </br>
-- Helps to visually analyse it </br>
+- Collect data from one or more than one systems <br>
+- Indexes and verifies it <br>
+- Helps to visually analyse it <br>
 
 <h3>Motivation</h3>
 The thought to improve our ability to collect and visualize performance analysis data and automate our workloads. The key was creating a tool which would be convenient, user-friendly, and powerful. In performance work, you may need to use quite a lot of tools to understand the problem, as well as run workloads with many permutations. Pbench sought to make this much more accessible by providing common commands to use these tools and benchmarks. Once the user knew a couple of simple commands for pbench, they could run dozens of tools and workloads.
@@ -28,7 +28,7 @@ The thought to improve our ability to collect and visualize performance analysis
 - Output effective visualization for analysis (locally, as well as on a remote pbench server)
 - Allow for ingestion into Elasticsearch and advanced data analysis through easy-to-use dashboards
 
-<br><br>
+<br>
 
 <h3>The Framework consists of the following subsystems:</h3><br>
 
@@ -38,7 +38,7 @@ The thought to improve our ability to collect and visualize performance analysis
 
 **Dashboard**: is the front-end to the results data captured through the pbench agent and is integrated with other visualization tools such as Kibana or Grafana.
 
-<br><br>
+<br>
 
 <h3>What are some of many benchmarks offered by Pbench?</h3><br>
 
