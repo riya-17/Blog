@@ -32,6 +32,8 @@ The thought to improve our ability to collect and visualize performance analysis
 
 <h3>The Framework consists of the following subsystems:</h3><br>
 
+![_config.yml]({{ site.baseurl }}/images/Pbench-component.png)
+
 **Pbench-agent**: is a collection agent and benchmark wrapper, or harness, responsible for providing commands for running benchmarks across one or more systems under test, while properly collecting the configuration of those systems, their logs, and specified telemetry from various tools (sar, vmstat, perf, etc.), and performing some level of normalization of the various pieces of data collected. The pbench-agent must be installed on the set of systems the user would like data collected from during a benchmark run.<br>
 
 **Pbench-server**: runs on a remote system and is responsible for archiving the result tarballs, indexing them into an Elasticsearch instance, and unpacking them for visualization.<br>
@@ -48,18 +50,24 @@ The thought to improve our ability to collect and visualize performance analysis
 
 <br>
 
-<h3>Usage</h3><br>
+<h3>WorkFlow</h3><br>
 
-Using the pbench framework is a breeze. Start off by installing the pbench-agent on all the systems under test - there are Ansible scripts in the repo to facilitate pbench-agent installation. Then, execute the following protocol in-order to run a benchmark:
+![_config.yml]({{ site.baseurl }}/images/Pbench_workflow.png)
 
-- Register a set of tools on all systems under test <br>
-      - This step is usually performed from just one host as the tool registration utility has the capability to register tools on remote hosts<br>
-- Run the benchmark using the pbench benchmark wrapper scripts; the pbench benchmark wrapper scripts ensure the following:<br>
-      - automatic installation of benchmark<br>
-      - detailed results for a matrix of benchmark iterations<br>
-      - multi-sampling of each iteration for average and standard deviation<br>
-      - tool execution during measurement periods (for the tools that were registered in the previous step)<br>
-      - support for multi-system synchronized execution<br>
-      - provide result metrics beyond “throughput”, and integrate tool data to derive efficiency metrics (Gbps/CPU, IOPS/CPU, etc.)<br>
-- (optional) Move the results to the remote pbench server if installed<br>
-- Visualize the results either locally using the web server JS and CSS file components or on the dashboard of the remote server<br>
+Agent acts as a collection spot of data. It collects the data and send to server with the help of `pbench-move-results` command. Server acts as a collector of data. It helps to verify the tarballs by checking whether the data that is collected is valid and error free. It then indexes the data and send to elasticsearch. Elasticsearch mapped data is then fetched by the Dashboard and Kibana for Visualization where we can compare or visualize our data with the help of tables or graphs easily.
+
+<h3>Future work</h3><br>
+
+**Agent**:
+- Conversion to all Python3 Scripts (removing remaining complicated bash scripts) <br>
+- Having a unified platform for running tools <br>
+
+**Server**
+- Conversion to all Python3 Scripts (removing remaining bash and perl scripts) <br>
+- Addition of new features (deletion of unpacked tarballs if time exceeds 30 days) <br>
+- Introduction of User notion <br>
+**Dasboard**
+- 
+
+<h3>For Your Love and Contribution</h3><br>
+GitHub Repo: - [Pbench GitHub Repository](https://github.com/distributed-system-analysis/pbench)
