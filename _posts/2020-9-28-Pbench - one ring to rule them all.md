@@ -66,12 +66,13 @@ Agent acts as a collection spot of data. It collects the data and send to server
 - Conversion to all Python3 Scripts (removing remaining complicated bash scripts) <br>
 - Having a unified platform for running tools <br>
 
-**Server**
+**Server**:
 - Conversion to all Python3 Scripts (removing remaining bash and perl scripts) <br>
 - Addition of new features (deletion of unpacked tarballs if time exceeds 30 days) <br>
 - Introduction of User notion <br>
 
-**Dasboard**
+**Dashboard**:
+
 - 
 
 <br>
