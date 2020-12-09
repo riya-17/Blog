@@ -17,6 +17,8 @@ The framework in short strives to make the life of performance engineer more eff
 - Indexes and verifies it <br>
 - Helps to visually analyse it <br>
 
+<br>
+
 <h3>Motivation</h3>
 The thought to improve our ability to collect and visualize performance analysis data and automate our workloads. The key was creating a tool which would be convenient, user-friendly, and powerful. In performance work, you may need to use quite a lot of tools to understand the problem, as well as run workloads with many permutations. Pbench sought to make this much more accessible by providing common commands to use these tools and benchmarks. Once the user knew a couple of simple commands for pbench, they could run dozens of tools and workloads.
 
@@ -56,6 +58,8 @@ The thought to improve our ability to collect and visualize performance analysis
 
 Agent acts as a collection spot of data. It collects the data and send to server with the help of `pbench-move-results` command. Server acts as a collector of data. It helps to verify the tarballs by checking whether the data that is collected is valid and error free. It then indexes the data and send to elasticsearch. Elasticsearch mapped data is then fetched by the Dashboard and Kibana for Visualization where we can compare or visualize our data with the help of tables or graphs easily.
 
+<br>
+
 <h3>Future work</h3><br>
 
 **Agent**:
@@ -66,8 +70,11 @@ Agent acts as a collection spot of data. It collects the data and send to server
 - Conversion to all Python3 Scripts (removing remaining bash and perl scripts) <br>
 - Addition of new features (deletion of unpacked tarballs if time exceeds 30 days) <br>
 - Introduction of User notion <br>
+
 **Dasboard**
 - 
+
+<br>
 
 <h3>For Your Love and Contribution</h3><br>
 GitHub Repo: - [Pbench GitHub Repository](https://github.com/distributed-system-analysis/pbench)
