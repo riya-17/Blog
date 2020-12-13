@@ -5,6 +5,8 @@ title: Pbench - one ring to rule them all
 
 ![_config.yml]({{ site.baseurl }}/images/giphy.gif)
 
+![_config.yml]({{ site.baseurl }}/images/Pbench-img.png)
+
 Hello world,
 
 Pbench is a short of "Performance bench", is a comprehensive framework that assist engineers with their benchmarking and performance analysis.
