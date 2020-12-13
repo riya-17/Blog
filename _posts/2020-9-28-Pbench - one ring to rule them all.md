@@ -73,7 +73,8 @@ Agent acts as a collection spot of data. It collects the data and send to server
 
 **Dashboard**:
 
-- 
+- User model
+- Conversion to PatternFly
 
 <br>
 
