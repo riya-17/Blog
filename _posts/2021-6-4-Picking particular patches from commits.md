@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pbench - one ring to rule them all
+title: Picking particular patches from commits
 ---
 ![_config.yml]({{ site.baseurl }}/images/giphy.gif)
 
