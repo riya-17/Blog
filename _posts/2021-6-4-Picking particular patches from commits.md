@@ -13,12 +13,14 @@ Git consists of some awesome features and Interactive staging is one of them. Gi
 Here is one of many solutions:
 
 - git reset HEAD^ <br>
-	This will move the files from the topmost commit to the 'untracked files' state.
-	
-	Files being in an untracked state consist of all your changes but they are waiting to be added, but you don't wanna add the whole file. just some of the largest made changes.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This will move the files from the topmost commit to the 'untracked files' state.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Files being in an untracked state consist of all your changes but they are waiting to be added, but you don't wanna add the whole file. just some of the largest made changes.
 
 - git add --patch file_name.py (file name from the listed 'untracked files') <br> 
-	This command will display all the changes that you have made to that particular file patch by patch. We can play around with each patch of the code. We can split, select, leave, etc from the code with the help of the following options which will be displayed as soon as you add patch the file.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This command will display all the changes that you have made to that particular file patch by patch. We can play around with each patch of the code. We can split, select, leave, etc from the code with the help of the following options which will be displayed as soon as you add patch the file.
+	
 	
 	After this there are many options we can choose from like:
 	
