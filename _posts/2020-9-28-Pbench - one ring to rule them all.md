@@ -15,8 +15,7 @@ The framework in short strives to make the life of performance engineer more eff
 
 - Collect data from one or more than one systems <br>
 - Indexes and verifies it <br>
-- Helps to visually analyse it <br>
-
+- Helps to visually analyse it
 <br>
 
 <h3>Motivation</h3>
@@ -32,7 +31,7 @@ The thought to improve our ability to collect and visualize performance analysis
 
 <br>
 
-<h3>The Framework consists of the following subsystems:</h3><br>
+<h3>The Framework consists of the following subsystems:</h3>
 
 ![_config.yml]({{ site.baseurl }}/images/Pbench-component.png)
 
@@ -44,7 +43,7 @@ The thought to improve our ability to collect and visualize performance analysis
 
 <br>
 
-<h3>What are some of many benchmarks offered by Pbench?</h3><br>
+<h3>What are some of many benchmarks offered by Pbench?</h3>
 
 **Pbench-user-benchmark** - This script helps us to run a custom benchmark.  It collects data of the tools that are listed in the group, the group can be the default group or user created group. <br>
 **Pbench-fio** - It is a workload generator that can be used for both benchmark and stress/hardware verification. It was created to automate fio tests, including calculations of statistics for throughputs and latency. <br>
@@ -52,7 +51,7 @@ The thought to improve our ability to collect and visualize performance analysis
 
 <br>
 
-<h3>WorkFlow</h3><br>
+<h3>WorkFlow</h3>
 
 ![_config.yml]({{ site.baseurl }}/images/Pbench_workflow.png)
 
@@ -60,7 +59,7 @@ Agent acts as a collection spot of data. It collects the data and send to server
 
 <br>
 
-<h3>Future work</h3><br>
+<h3>Future work</h3>
 
 **Agent**:
 - Conversion to all Python3 Scripts (removing remaining complicated bash scripts) <br>
@@ -75,8 +74,6 @@ Agent acts as a collection spot of data. It collects the data and send to server
 
 - User model
 - Conversion to PatternFly
-
 <br>
-
-<h3>For Your Love and Contribution</h3><br>
+<h3>For Your Love and Contribution</h3>
 GitHub Repo: - [Pbench GitHub Repository](https://github.com/distributed-system-analysis/pbench)
