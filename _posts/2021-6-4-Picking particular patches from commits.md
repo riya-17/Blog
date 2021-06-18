@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Picking particular patches from commits
+title: Picking particular patches of code from commits
 ---
-![_config.yml]({{ site.baseurl }}/images/giphy.gif)
 
 Hello world,
 
