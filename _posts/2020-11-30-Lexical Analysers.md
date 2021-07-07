@@ -1,0 +1,27 @@
+---
+layout: post
+title: Motivation - From Where it all Starts!
+---
+
+![_config.yml]({{ site.baseurl }}/images/Dreams.jpg)
+<br>
+
+(Image credit: Media Molecule)
+
+Hello! world,
+
+We have many things to motivate us but from where does motivation starts?
+What motivates us? This is a question that everybody asks oneself or another person. We always look at another person and think yes he/she can be my motivation or a video or anything else. Isn't the motivation to start from ourselves? Motivation to keep ourselves motivated.
+
+*The willingness to do something starts from our end first then it reaches the other.*
+<br><br>
+
+### Desires
+We all have wishes. There can be any kind of wish innocent, weird, sweet, truthful, and a lot more. There are countless desires that a person would love to fulfill. Like, to help others, to make your expenses, or not to depend on anyone else. Each person has a desire or something that they are not able to do at present but would love to fulfill one day. After all, we are all searching for meanings in our lives and these desires give us meaning. The things we love, things we want, things we want to spend our time on, people we love, making others happy it can be anything.
+<br>
+
+### Plans
+Plans are stepping stones for our dreams. As we have chapters in a book to cover the whole story, we have plans. Accomplishing these small wins is what keeps us going on. These small plans are like small goals that lead us to a bigger goal. It is once said - 
+<br> "*Plans are what leads us to a Journey, After all, it is a journey that is much more beautiful than destination*". 
+<br> Plans make us keep believing in ourselves. Taking small steps towards our Dreams and fulfill them is what encourages us, to plan more plans and work towards them. Traveling to a small place is a small step towards a world tour. Reading the first page of a book leads you to go on a new adventure. Adventures are what keeps our souls alive. We live for these small moments that become part of a lifetime.
+<br>
